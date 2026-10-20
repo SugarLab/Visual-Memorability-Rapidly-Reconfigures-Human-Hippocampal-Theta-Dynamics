@@ -1,0 +1,13 @@
+# Analyses were run with Python 3.12.
+numpy
+scipy
+pandas
+openpyxl        # reading the electrode position .xlsx files
+mne>=1.6        # analyses were run with MNE 1.6
+joblib
+h5py            # shared-data export
+statsmodels
+gpboost
+matplotlib
+seaborn
+jupyterlab
