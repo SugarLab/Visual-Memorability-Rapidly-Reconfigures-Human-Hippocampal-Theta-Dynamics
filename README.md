@@ -64,7 +64,7 @@ regarding data access.
 ### Shared data
 
 Theta-filtered and broadband Laplacian-referenced hippocampal signals, normalised (MNI) contact coordinates, the
-memorability estimates and the behavioural responses are available at [repository link / DOI]. They are produced by
+memorability estimates and the behavioural responses are available at [https://doi.org/10.5281/zenodo.23501314]. They are produced by
 `05_export_shared_data.ipynb`; the format is described in [`shared_data_README.md`](shared_data_README.md).
 
 The behavioural results, the ERP and the theta results (Table 1, Figs. 2–5) can be reproduced from these files
