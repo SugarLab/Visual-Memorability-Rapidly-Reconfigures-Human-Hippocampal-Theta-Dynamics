@@ -1,4 +1,4 @@
-# Visual memorability predicts rapid reconfiguration of human hippocampal dynamics
+# Visual memorability rapidly reconfigures human hippocampal theta dynamics
 
 Analysis code for:
 
