@@ -3,7 +3,7 @@
 Analysis code for:
 
 > Bang B., Reinartz A., Annavini E., Etholm L., Ivanovic J., Konglund A., Espeseth T., Sugar J.
-> *Visual Memorability Predicts Rapid Reconfiguration of Human Hippocampal Dynamics.* (submitted)
+> *Visual Memorability Rapidly Reconfigures Human Hippocampal Theta Dynamics.* (submitted)
 
 Fifteen patients with drug-resistant epilepsy, implanted with stereo-EEG depth electrodes, performed a continuous
 recognition task with 1,000 natural scenes. We related each scene's memorability, predicted by a vision-transformer
